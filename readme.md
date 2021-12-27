@@ -7,10 +7,11 @@
     - [main.cpp](#maincpp)
     - [LinkedList.h](#linkedlisth)
     - [AVLTree.h](#avltreeh)
+    - [Samples](#samples)
 
 <br/>
 
-# Assignment # 03
+# Dictionary
 ## Brief
 This assignment contains an application of AVL Trees which is a **Dictionary** application. The user is required to enter a valid and the meaning(s) of that words are displayed to the user.
 
@@ -423,4 +424,7 @@ private:
 #endif
 ```
 
-
+### Samples 
+![1](images/1.png)
+![1](images/2.png)
+![1](images/3.png)
